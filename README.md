@@ -3,9 +3,9 @@
 # Evaluación Práctica - Ingeniería de Software V
 
 ## Información del Estudiante
-- **Nombre:**
-- **Código:**
-- **Fecha:**
+- **Juan Esteban Brawn Lozada**
+- **A00381715:**
+- **7/03/25:**
 
 ## Resumen de la Solución
 [Breve descripción de tu implementación]
